@@ -8,5 +8,3 @@
 4. Launch the game and wait for BepInEx to initialize.
 5. Enter your License Key and press **ACTIVATE**.
 6. Press **INSERT** to show or hide the menu.
-
-Compatible with Among Us **IL2CPP x86 (32-bit)**.
