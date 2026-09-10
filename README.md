@@ -1,3 +1,5 @@
+![PIKACHU Among Us Mod](assets/among-pika-preview.png)
+
 ## Installation
 
 1. Download [**AmongPIKAMOD.zip**](https://github.com/isPIKA/Among-Us-Cheat-PIKACHU/releases/download/new/AmongPIKAMOD.zip).
